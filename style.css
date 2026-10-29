@@ -1,0 +1,21 @@
+
+/*font-face {
+	font-family: 'Konstrukour'
+Body {
+    background-color: purple;
+    background-color: rgb(100,100,150);
+    background-color: hsl(0,100%,100%);
+    text-transform: uppercase;
+/* This how you change the size of the text to be either upper or lower case: text-transform: uppercase; */
+/* This how you add lines into the text and make them look decorative: 
+text-decoration: overline; 
+text-decoration: line-through;
+text-decoration: underline;
+*/
+/*this is how you change the height of a paragraph: line-height:60;*/
+/*this is how you change the space between letters: letter-spacing 2px;*/
+/*how you change the space between words: word-spacing: 2px;*/
+/*how to align: text-align: center; Only do for small amounts of text (justify is preffered too) */
+/*To indent text : text-indent: 50px; */
+/*How to add shadow : 2px 2px 7 px #11111; */
+}
